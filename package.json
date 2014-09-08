@@ -1,7 +1,7 @@
 {
   "name": "angulator",
   "version": "0.0.0",
-  "description": "The MEAN Template",
+  "description": "Angular Calculator",
   "repository": {
     "type": "git",
     "url": "https://github.com/mkeef1/angulator"
